@@ -1,0 +1,29 @@
+// In this scss you can overwrite all our scss, we suggested you to add your scss into this, so whenever the update comes it will not affect your code.
+.dropdown-btn{
+    background-color: white;
+}
+tr{
+    background-color: whitesmoke;
+       border: 2px solid white;
+}
+
+.cursor-grab-table{
+    cursor: grab;
+}
+.table .thead-light th,
+.table-hover tbody tr:hover {
+
+    background-color:  rgb(255, 249, 196);
+}
+
+.bg-custom{
+    background-color: #c0ecf5 !important;
+    color:black
+}
+.accordion .card {
+    overflow: inherit;
+}
+
+.fullheight{
+    height: 100% !important;
+}
